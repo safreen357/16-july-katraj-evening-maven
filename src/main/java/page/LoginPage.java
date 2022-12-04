@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
+//afrenn bashudin shaikh sample update
 	@FindBy(xpath = "//input[@name='username']")
 	private WebElement usernameBox;
 	
